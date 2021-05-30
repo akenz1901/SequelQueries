@@ -1,6 +1,6 @@
 Alter table movie
 Add
-MovieTime	integer		not null;
+MovieTime	integer		not nulmoviesl;
 
 Alter table movie
 drop movieTitle;

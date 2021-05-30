@@ -7,4 +7,3 @@ CREATE TABLE RETAIL_ORDER (
 	OrderTotal   	    Numeric(9,2)    	NULL,
 	CONSTRAINT 		    RETAIL_ORDER_PK 	PRIMARY KEY (OrderNumber)
 	);
-    
